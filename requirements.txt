@@ -1,11 +1,11 @@
 tgcrypto
 asyncio
 ffmpeg-python
-git+https://github.com/ABHI-xd/calls
+git+https://github.com/ABHI-xd/calls@master
 git+https://github.com/pyrogram/pyrogram@master
 youtube-search-python
 
-speedtest-cli
+
 git+https://github.com/JorDenXD/download
 youtube-search
 python-dotenv
