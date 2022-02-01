@@ -1,7 +1,7 @@
 tgcrypto
 asyncio
 ffmpeg-python
-git+https://github.com/ABHI-xd/calls
+git+https://github.com/ABHI-xd/pycalls
 git+https://github.com/pyrogram/pyrogram@master
 youtube-search-python
 
