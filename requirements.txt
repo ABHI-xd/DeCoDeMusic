@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-py-tgcalls
+git+https://github.com/ABHI-xd/calls
 python-dotenv
 requests
 aiohttp
@@ -12,7 +12,7 @@ future
 psutil
 wget
 ffmpeg-python
-yt-dlp==2021.11.10.1
+git+https://github.com/JorDenXD/download
 heroku3
 motor
 dnspython
